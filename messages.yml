@@ -1,0 +1,21 @@
+warning: "&6[Plants] &bThis plant will be broken once grown!"
+no-permission: "&6[Plants] &4&lNot permitted to use this command!"
+reload: "&6[Plants] &4Plants &breloaded successfully!"
+hopper-already-collector: "&6[Plants] &4This is already a &6Collector Hopper&b!"
+hopper-not-hopper: "&6[Plants] &4This is not a hopper!"
+hopper-set: "&6[Plants] &4Collector Hopper &bis successfully set!"
+hopper-placed: "&6[Plants] &bYou placed a hopper! To make this a &6Collector Hopper&b, use &4/plants hopper"
+
+# Türkçeleri için buradaki hashtag işaretlerini kaldırıp yukarıdaki İngilizce mesajları silin.
+#warning: "&6[Plants] &bBu bitki büyüyünce otomatik hasat edilecektir!"
+#no-permission: "&6[Plants] &4&lBu komutu kullanmaya yetkiniz yok!"
+#reload: "&6[Plants] &4Plants &bdosyaları başarıyla yeniden yüklendi!"
+#hopper-already-collector: "&6[Plants] &4Bu zaten bir &6Toplayıcı Huni!"
+#hopper-not-hopper: "&6[Plants] &4Bu bir huni değil!"
+#hopper-set: "&6[Plants] &bToplayıcı Huni başarıyla ayarlandı!"
+#hopper-placed: "&6[Plants] &bHuni yerleştirdiniz! Bunu &6Toplayıcı Huni'ye&b çevirmek için &4/plants hopper &bkomudunu kullanın!"
+
+
+
+# Plugin made by Progr4mm3r
+# https://github.com/tolgaozgun

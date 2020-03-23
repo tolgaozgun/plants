@@ -1,0 +1,38 @@
+# Check out this link for all materials. You need to use material names in the link
+# Bu linke tıklayıp tüm materyallari bulabilirsiniz. Buradaki materyal isimlerini kullanmanız gerekmektedir.
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+blacklisted-blocks:
+# These blocks will be broken and their items will be placed on the ground.
+# Buradaki bitkiler büyüdüğünde kırılacak ve eşyaları yere bırakılacaktır.
+#
+#
+#- PUMPKIN
+
+warning-blocks:
+# These blocks will display a warning message once placed by a player
+# Edit the warning message in messages.yml file.
+# Bu bloklar oyuncu tarafından konulurken uyarı mesajı gönderecektir.
+# Uyarı mesajını messages.yml'den düzenleyebilirsiniz.
+#
+#
+#- PUMPKIN_STEM
+hopper-blocks:
+# These blocks will be put into the closest Collector Hopper
+# Bu bloklar en yakın Toplayıcı Huni'ye toplanacaktır.
+#
+#
+#- PUMPKIN
+
+bamboo: true # Will the bamboo be blacklisted? Bambu oto-hasat'a dahil mi?
+kelp: true # Will the kelp be blacklisted? Yosun oto-hasat'a dahil mi?
+chorus: true # Will the chorus flower be blacklisted? Nakarat çiçeği oto-hasat'a dahil mi?
+
+warn-bamboo: true # Will there be warning shown for bamboo? Bambu fidanı uyarı mesajlarına dahil mi?
+warn-kelp: true # Will there be warning shown for kelp? Yosun fidanı uyarı mesajlarına dahil mi?
+warn-chorus: true # Will there be warning shown for chorus? Nakarat çiçeği fidanı uyarı mesajlarına dahil mi?
+
+range: 7 # This is the range for Collector Hopper. Bu Toplayıcı Huni'nin menzili
+
+# Plugin made by Progr4mm3r
+# https://github.com/tolgaozgun

@@ -1,0 +1,20 @@
+name: Plants
+author: Progr4mm3r
+version: 1.0
+api-version: 1.13
+main: me.tolgaozgun.plants.PluginMain
+commands:
+    plants:
+         description: Plants plugin made by Progr4mm3r
+         usage: /<command>
+         aliases: plant
+    plants reload:
+         description: Reload command for Plants
+         usage: /<command>
+         aliases: plant reload
+         permission: plants.admin.reload
+    plants hopper:
+         description: Set your hopper to a Collector Hopper which collects dropped items!
+         usage: /<command>
+         aliases: [plant hopper, plant huni, plants huni, plants hunicevir]
+         permission: plants.user.hopper
